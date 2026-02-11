@@ -1,0 +1,59 @@
+.speech{
+    font-size: medium;
+    font: 400;
+}
+
+.song{
+    font-size: medium;
+    font: 400;
+}
+
+.direction{
+    font-size: larger;
+    font:700;
+    background-color: lightcoral;
+}
+
+.name{
+    font-size: x-large;
+    font:700
+}
+
+.direction .hover{
+    background-color:darkred;
+    color: white
+}
+
+.mik{
+    color:blue;
+    background-color: lightblue;
+}
+
+.kat{
+    color:red;
+    background-color: lightcoral;
+}
+
+.ko{
+    color:green;
+    background-color: lightgreen;
+}
+
+.pooh{
+    color:purple;
+    background-color: lightpink;
+}
+
+.chorus{
+
+}
+
+.speech{
+    font-style: italic;
+    font-weight: 300;
+}
+
+.speech{
+    font-style: italic;
+    font-weight: 200;
+}
