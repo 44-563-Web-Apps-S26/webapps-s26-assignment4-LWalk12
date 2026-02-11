@@ -19,7 +19,7 @@
     font:700
 }
 
-.direction .hover{
+direction .hover{
     background-color:darkred;
     color: white
 }
@@ -44,8 +44,9 @@
     background-color: lightpink;
 }
 
-.chorus{
-
+.pitti{
+    color:orange;
+    background-color: lightyellow;
 }
 
 .speech{
@@ -53,7 +54,30 @@
     font-weight: 300;
 }
 
-.speech{
+.song{
     font-style: italic;
     font-weight: 200;
+}
+
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.stripe{
+    background-color: lightgray;
+}
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
 }
