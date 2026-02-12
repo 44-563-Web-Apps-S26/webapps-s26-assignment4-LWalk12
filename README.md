@@ -3,4 +3,4 @@
 A practice assignment for HTML with CSS
 
 # Pages Link
-ttps://44-563-web-apps-s26.github.io/webapps-s26-assignment4-LWalk12/opera.html
+https://44-563-web-apps-s26.github.io/webapps-s26-assignment4-LWalk12/opera.html
